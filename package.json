@@ -18,7 +18,7 @@
 		"otfcc-ttcize": "^0.8.0",
 		"pad": "^1.1.0",
 		"patel": "^0.33.1",
-		"primitive-quadify-off-curves": "^0.4.0",
+		"primitive-quadify-off-curves": "^0.6.3",
 		"toml": "^2.3.2",
 		"topsort": "0.0.2",
 		"ttf2woff": "^2.0.1",
