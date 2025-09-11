@@ -17,7 +17,7 @@
 		"object-assign": "^4.1.1",
 		"otfcc-ttcize": "^0.8.0",
 		"pad": "^1.1.0",
-		"patel": "^0.33.1",
+		"patel": "^0.41.0",
 		"primitive-quadify-off-curves": "^0.4.0",
 		"toml": "^2.3.2",
 		"topsort": "0.0.2",
