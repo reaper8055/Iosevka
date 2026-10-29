@@ -19,7 +19,7 @@
 		"pad": "^1.1.0",
 		"patel": "^0.33.1",
 		"primitive-quadify-off-curves": "^0.4.0",
-		"toml": "^2.3.2",
+		"toml": "^5.0.1",
 		"topsort": "0.0.2",
 		"ttf2woff": "^2.0.1",
 		"ttf2woff2": "^2.0.3",
